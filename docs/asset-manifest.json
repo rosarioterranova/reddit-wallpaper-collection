@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/reddit-wallpaper-collection/static/css/main.6b76bf61.chunk.css",
+    "main.js": "/reddit-wallpaper-collection/static/js/main.2b3d8af6.chunk.js",
+    "main.js.map": "/reddit-wallpaper-collection/static/js/main.2b3d8af6.chunk.js.map",
+    "runtime-main.js": "/reddit-wallpaper-collection/static/js/runtime-main.e27bc2f4.js",
+    "runtime-main.js.map": "/reddit-wallpaper-collection/static/js/runtime-main.e27bc2f4.js.map",
+    "static/js/2.75b11e7c.chunk.js": "/reddit-wallpaper-collection/static/js/2.75b11e7c.chunk.js",
+    "static/js/2.75b11e7c.chunk.js.map": "/reddit-wallpaper-collection/static/js/2.75b11e7c.chunk.js.map",
+    "index.html": "/reddit-wallpaper-collection/index.html",
+    "static/css/main.6b76bf61.chunk.css.map": "/reddit-wallpaper-collection/static/css/main.6b76bf61.chunk.css.map",
+    "static/js/2.75b11e7c.chunk.js.LICENSE.txt": "/reddit-wallpaper-collection/static/js/2.75b11e7c.chunk.js.LICENSE.txt",
+    "static/media/blocks.2ea5e5bd.svg": "/reddit-wallpaper-collection/static/media/blocks.2ea5e5bd.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e27bc2f4.js",
+    "static/js/2.75b11e7c.chunk.js",
+    "static/css/main.6b76bf61.chunk.css",
+    "static/js/main.2b3d8af6.chunk.js"
+  ]
+}
