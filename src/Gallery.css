@@ -1,0 +1,12 @@
+.wallpaper {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+    padding: 5px;
+}
+
+@media only screen and (max-width: 1000px) {
+    .wallpaper {
+        height: 60vw;
+    }
+}
